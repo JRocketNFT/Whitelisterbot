@@ -1,0 +1,27 @@
+{
+    "discord_bot_token": "Put your discord bot token here!",
+    "production": true,
+    "testingServerID": null,
+    "messages": {
+        "exportForYourServer": "Here's your server whitelisted addresses.",
+        "setChannelAndRole": "Please set channel and role before using this command!",
+        "wrongChannelMultiple": "You can only use this command in <channel1> or <channel2>!",
+        "wrongChannel": "You can only use this command in <channel>!",
+        "noSetRoleMultiple": "You need to have <role1> or <role2> to use this command!",
+        "noSetRole": "You need to have <role> to use this command!",
+        "addressNotFound": "Please whitelist your address before viewing it!",
+        "notEnoughResults": "There aren't enough whitelisted addresses.",
+        "hereYourAddress": "Here's your address:",
+        "invalidAddress": "Invalid address is provided.",
+        "noAdministratorPermission": "You don't have the ADMINISTRATOR permission.",
+        "noWhitelistedAddress": "No whiteslited user is registered at the moment.",
+        "userNotFound": "User isn't whitelisted.",
+        "deletedTheUser": "Deleted the user successfully.",
+        "areYouSure": "Are you sure you want to delete the data of all submitters?",
+        "cancelledDelete": "Cancelled the deletation.",
+        "deletedAll": "Deleted all the submitters.",
+        "countAll": "Total amount of addresses in this server: <count>",
+        "commandNotFound": "Command not found.",
+        "somethingWentWrong": "Something went wrong, try again later."
+    }
+}
